@@ -847,7 +847,7 @@ The repository contains screenshots of the completed Power BI dashboard.
 
 ## Executive Overview
 
-![Executive Overview](Executive%20Overview%20Page.png)
+![Executive Overview](Executive%20Overview%20Page%20v2.png)
 
 High-level view of patient, operational and financial performance.
 
